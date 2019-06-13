@@ -53,6 +53,7 @@ For macOS and Linux:
 4. `pip3.7 install -r requirements.txt`
 5. `python setup.py develop`
 6. `python run.py`
+7. `Rock your life!`
 
 # Testing
 
